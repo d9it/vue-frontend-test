@@ -32,7 +32,7 @@ export default {
 					productImage: '/assets/1.jpg',
 					time: '3 days left',
 					hour: '4 hrs',
-          price: '$85'
+          			fprice: '$85'
 				},
 				{
 					id: 3,
@@ -41,7 +41,7 @@ export default {
 					productImage: '/assets/3.jpg',
 					time: 'Due in 2 days, 5hrs',
 					hour: '5 hrs',
-          price: '$155'
+          			price: '$155'
 				},
 				{
 					id: 4,
@@ -50,7 +50,7 @@ export default {
 					productImage: '/assets/4.jpg',
 					time: 'Due in 3 days, 5hrs',
 					hour: '8 hrs',
-          price: '$385'
+          			price: '$385'
 				},
 				{
 					id: 5,
@@ -59,7 +59,7 @@ export default {
 					productImage: '/assets/2.jpg',
 					time: '3 days left',
 					hour: '3 hrs',
-          price: '$385'
+          			price: '$385'
 				},
 				{
 					id: 6,
@@ -67,7 +67,7 @@ export default {
 					title: 'Completed',
 					productImage: '/assets/4.jpg',
 					time: 'Dec 12, 9:43pm',
-          hour: '8 hrs',
+          			hour: '8 hrs',
 					price: '$346',
 				},
 				{
@@ -76,7 +76,7 @@ export default {
 					title: 'Completed',
 					productImage: '/assets/3.jpg',
 					time: 'Dec 13, 8:21pm',
-          hour: '6 hrs',
+          			hour: '6 hrs',
 					price: '$320',
 				},
 				{
@@ -85,7 +85,7 @@ export default {
 					title: 'Cancelled',
 					productImage: '/assets/3.jpg',
 					time: 'Dec 12, 9:43pm',
-          hour: '20 hrs',
+          			hour: '20 hrs',
 					price: '$385',
 				},
 			],
