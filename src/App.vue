@@ -32,7 +32,7 @@ export default {
 					productImage: '/assets/1.jpg',
 					time: '3 days left',
 					hour: '4 hrs',
-          			fprice: '$85'
+          			price: '$85'
 				},
 				{
 					id: 3,
